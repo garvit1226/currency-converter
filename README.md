@@ -6,7 +6,7 @@ A responsive currency converter using **free ExchangeRate-API** (no key needed).
 
 
 ## ✨ **Live Demo**
-[[Deploy on GitHub Pages](https://yourusername.github.io/currency-exchange-finder/)](https://garvit1226.github.io/currency-converter/)
+https://garvit1226.github.io/currency-converter/
 
 ## 📱 **Key Features**
 - ✅ **Live Rates**: Real-time exchange via free API
