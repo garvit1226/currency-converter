@@ -1,0 +1,47 @@
+// Object containing currency codes as keys and full names as values
+// Used to populate dropdown options in index.html
+
+const currencies = {
+    "USD": "US Dollar",
+    "EUR": "Euro",
+    "GBP": "British Pound Sterling",
+    "JPY": "Japanese Yen",
+    "AUD": "Australian Dollar",
+    "CAD": "Canadian Dollar",
+    "CHF": "Swiss Franc",
+    "CNY": "Chinese Yuan",
+    "INR": "Indian Rupee",
+    "BRL": "Brazilian Real",
+    "KRW": "South Korean Won",
+    "SGD": "Singapore Dollar",
+    "HKD": "Hong Kong Dollar",
+    "MYR": "Malaysian Ringgit",
+    "PHP": "Philippine Peso",
+    "THB": "Thai Baht",
+    "IDR": "Indonesian Rupiah",
+    "VND": "Vietnamese Dong",
+    "PKR": "Pakistani Rupee",
+    "BDT": "Bangladeshi Taka",
+    "SEK": "Swedish Krona",
+    "NOK": "Norwegian Krone",
+    "DKK": "Danish Krone",
+    "PLN": "Polish Zloty",
+    "CZK": "Czech Koruna",
+    "HUF": "Hungarian Forint",
+    "RUB": "Russian Ruble",
+    "TRY": "Turkish Lira",
+    "AED": "UAE Dirham",
+    "SAR": "Saudi Riyal",
+    "ILS": "Israeli New Shekel",
+    "EGP": "Egyptian Pound",
+    "ZAR": "South African Rand",
+    "NGN": "Nigerian Naira",
+    "MXN": "Mexican Peso",
+    "NZD": "New Zealand Dollar",
+    "ARS": "Argentine Peso",
+    "CLP": "Chilean Peso",
+    "COP": "Colombian Peso",
+    "PEN": "Peruvian Sol"
+};
+
+
